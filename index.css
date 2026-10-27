@@ -12,6 +12,9 @@ body{
     float: left;
     margin-top: 5%;
 }
+img{
+    width:90%;
+}
 h1{
     padding-left: 5%;
     color: #C8CDD1;
